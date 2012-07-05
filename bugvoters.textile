@@ -1,0 +1,38 @@
+h1. Eclipse
+
+|_. Project |_. short description |_. bug URL |_. Reporter |
+| JDT | (Java 7) Suggest to use <> where applicable | https://bugs.eclipse.org/bugs/show_bug.cgi?id=351956 | MP |
+| BIRT | multi-threaded report processing fails | https://bugs.eclipse.org/bugs/show_bug.cgi?id=319088 | AIM |
+| BIRT | Allow to pass XML document to BIRT instead of input stream (performance) | https://bugs.eclipse.org/bugs/show_bug.cgi?id=316118 | MSR |
+| E4 | Default text encoding should be set to UTF-8 for all text-based files | https://bugs.eclipse.org/bugs/show_bug.cgi?id=108668 | PM |
+| P2 | Refresh Update Sites | https://bugs.eclipse.org/bugs/show_bug.cgi?id=291631 | MP |
+| SWT | StyledText text layout extensibility | https://bugs.eclipse.org/bugs/show_bug.cgi?id=265591 | MP |
+| JDT | Javadoc Locations: no support for variables | https://bugs.eclipse.org/bugs/show_bug.cgi?id=67020 | PM |
+| JDT | Allow to specify format of date and time variables in templates | https://bugs.eclipse.org/bugs/show_bug.cgi?id=75981 | MP |
+| JDT | convert local should copy comments refactoring | https://bugs.eclipse.org/bugs/show_bug.cgi?id=66457 | MP |
+| WTP | WebSphere 6.1/7 adapter for WTP | https://bugs.eclipse.org/bugs/show_bug.cgi?id=160220 | MSR |
+
+h1. Mozilla
+
+|_. Project |_. short description |_. bug URL |_. Reporter |
+| Calendar | Option to hide non-working hours in day view | https://bugzilla.mozilla.org/show_bug.cgi?id=657238 | MSR |
+| Calendar | Better OS integration: register protocol handler | https://bugzilla.mozilla.org/show_bug.cgi?id=352566 | MSR |
+| Calendar | Better OS integration: double-click .ics file | https://bugzilla.mozilla.org/show_bug.cgi?id=357480 | MSR |
+| Calendar | Thunderbird 3 reply/reply-all buttons | https://bugzilla.mozilla.org/show_bug.cgi?id=532009 | MSR |
+| Calendar | "Last Week" group when "Group By Sort" is misleading | https://bugzilla.mozilla.org/show_bug.cgi?id=505981 | MSR |
+| Calendar | TB/Lightning proper Outlook support (accept message) | https://bugzilla.mozilla.org/show_bug.cgi?id=527441 | MSR |
+
+h1. Misc
+
+|_. Project |_. short description |_. bug URL |_. Reporter |
+| Maven Site Plugin | Support adding and overriding report plugins in new maven-site-plugin 3.x reportPlugins configuration format | http://jira.codehaus.org/browse/MSITE-484 | MSR |
+| Confluence/Plugin SDK | Support for Maven 3 | https://studio.atlassian.com/browse/AMPS-374 | RGR |
+| Zimbra | Support shared address book on iPhone | http://bugzilla.zimbra.com/show_bug.cgi?id=30950 | MSR |
+| Tycho | Support annotation processing in tycho-compiler-jdt | https://issues.sonatype.org/browse/TYCHO-590 | PM |
+| Hamcrest | hasItem matcher factory has wrong generic wildcard | http://code.google.com/p/hamcrest/issues/detail?id=100 | MP |
+| Infinispan | Improve performance of tree cache writes in nodes with a lot of data | https://issues.jboss.org/browse/ISPN-1450 | PM |
+| JBoss-WS | xml preamble ignored for determining charset of SOAP request | https://issues.jboss.org/browse/JBWS-3213 | PM |
+| Hibernate | HQL/JPA "where in" queries broken | http://opensource.atlassian.com/projects/hibernate/browse/HHH-5905 | MSR |
+| Hibernate | PooledLoOptimizer in conjunction with SequenceStyleGenerator is not thread-safe | https://hibernate.onjira.com/browse/HHH-5929 | PM |
+| Maven Source Plugin | allow additional source directories to be configured | http://jira.codehaus.org/browse/MSOURCES-25 | PM |
+| Apache CXF | Add support for Apache HttpClient | https://issues.apache.org/jira/browse/CXF-291 | MSR |
