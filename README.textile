@@ -33,6 +33,5 @@ h1. Misc
 | Infinispan | Improve performance of tree cache writes in nodes with a lot of data | https://issues.jboss.org/browse/ISPN-1450 | PM |
 | JBoss-WS | xml preamble ignored for determining charset of SOAP request | https://issues.jboss.org/browse/JBWS-3213 | PM |
 | Hibernate | HQL/JPA "where in" queries broken | http://opensource.atlassian.com/projects/hibernate/browse/HHH-5905 | MSR |
-| Hibernate | PooledLoOptimizer in conjunction with SequenceStyleGenerator is not thread-safe | https://hibernate.onjira.com/browse/HHH-5929 | PM |
 | Maven Source Plugin | allow additional source directories to be configured | http://jira.codehaus.org/browse/MSOURCES-25 | PM |
 | Apache CXF | Add support for Apache HttpClient | https://issues.apache.org/jira/browse/CXF-291 | MSR |
