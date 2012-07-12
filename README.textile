@@ -25,6 +25,7 @@ h1. Mozilla
 h1. Misc
 
 |_. Project |_. short description |_. bug URL |_. Reporter |
+| Smart GWT | Support multi-day events in Calendar | http://code.google.com/p/smartgwt/issues/detail?id=550 | MJU |
 | Maven Site Plugin | Support adding and overriding report plugins in new maven-site-plugin 3.x reportPlugins configuration format | http://jira.codehaus.org/browse/MSITE-484 | MSR |
 | Confluence/Plugin SDK | Support for Maven 3 | https://studio.atlassian.com/browse/AMPS-374 | RGR |
 | Zimbra | Support shared address book on iPhone | http://bugzilla.zimbra.com/show_bug.cgi?id=30950 | MSR |
