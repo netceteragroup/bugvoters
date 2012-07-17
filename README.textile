@@ -25,6 +25,8 @@ h1. Mozilla
 h1. Misc
 
 |_. Project |_. short description |_. bug URL |_. Reporter |
+| Sonar | Multi Module Projects with different Languages | http://jira.codehaus.org/browse/SONAR-2602 | JST |
+| Sonar | Checkstyle severity inheritance ignored | http://jira.codehaus.org/browse/SONAR-3668 | JST |
 | Smart GWT | Support multi-day events in Calendar | http://code.google.com/p/smartgwt/issues/detail?id=550 | MJU |
 | Maven Site Plugin | Support adding and overriding report plugins in new maven-site-plugin 3.x reportPlugins configuration format | http://jira.codehaus.org/browse/MSITE-484 | MSR |
 | Confluence/Plugin SDK | Support for Maven 3 | https://studio.atlassian.com/browse/AMPS-374 | RGR |
