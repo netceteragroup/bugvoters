@@ -25,6 +25,7 @@ h1. Mozilla
 h1. Misc
 
 |_. Project |_. short description |_. bug URL |_. Reporter |
+| GWTEventService | Support reconnect after server restart | http://code.google.com/p/gwteventservice/issues/detail?id=46 | MSR |
 | Sonar | Multi Module Projects with different Languages | http://jira.codehaus.org/browse/SONAR-2602 | JST |
 | Sonar | Checkstyle severity inheritance ignored | http://jira.codehaus.org/browse/SONAR-3668 | JST |
 | Smart GWT | Support multi-day events in Calendar | http://code.google.com/p/smartgwt/issues/detail?id=550 | MJU |
