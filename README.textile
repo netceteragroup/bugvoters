@@ -26,6 +26,7 @@ h1. Misc
 
 |_. Project |_. short description |_. bug URL |_. Reporter |
 | GWTEventService | Support reconnect after server restart | http://code.google.com/p/gwteventservice/issues/detail?id=46 | MSR |
+| Sonar | Allow to import checkstyle rules using fully qualified class names instead of short module name | http://jira.codehaus.org/browse/SONAR-3097 | PM |
 | Sonar | Multi Module Projects with different Languages | http://jira.codehaus.org/browse/SONAR-2602 | JST |
 | Sonar | Checkstyle severity inheritance ignored | http://jira.codehaus.org/browse/SONAR-3668 | JST |
 | Smart GWT | Support multi-day events in Calendar | http://code.google.com/p/smartgwt/issues/detail?id=550 | MJU |
@@ -35,6 +36,8 @@ h1. Misc
 | Tycho | Support annotation processing in tycho-compiler-jdt | https://issues.sonatype.org/browse/TYCHO-590 | PM |
 | Hamcrest | hasItem matcher factory has wrong generic wildcard | http://code.google.com/p/hamcrest/issues/detail?id=100 | MP |
 | Infinispan | Improve performance of tree cache writes in nodes with a lot of data | https://issues.jboss.org/browse/ISPN-1450 | PM |
+| Hibernate | Ability to specify names of constraints (PK, Check, Unique) | https://hibernate.onjira.com/browse/HB-1245 | DKE |
+| Hibernate | @ManyToMany and @Index | https://hibernate.onjira.com/browse/HHH-4263 | DKE |
 | Hibernate | HQL/JPA "where in" queries broken | http://opensource.atlassian.com/projects/hibernate/browse/HHH-5905 | MSR |
 | Maven Source Plugin | allow additional source directories to be configured | http://jira.codehaus.org/browse/MSOURCES-25 | PM |
 | Apache CXF | Add support for Apache HttpClient | https://issues.apache.org/jira/browse/CXF-291 | MSR |
