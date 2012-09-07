@@ -25,6 +25,9 @@ h1. Mozilla
 h1. Misc
 
 |_. Project |_. short description |_. bug URL |_. Reporter |
+| JBoss Tools | Support auto type registration during hbm2ddl | https://issues.jboss.org/browse/JBIDE-12444 | MSR |
+| JBoss Tools | Maven plugin for Hibernate Tools 4.x | https://issues.jboss.org/browse/JBIDE-12445 | MSR |
+| Maven | outputFile support for capturing exec not functional | http://jira.codehaus.org/browse/MEXEC-86 | MSR |
 | Maven | Global dependency exclusions | http://jira.codehaus.org/browse/MNG-1977 | PM |
 | Maven | Add option to exclude all transitive dependencies for a particular one | http://jira.codehaus.org/browse/MNG-2315 | PM |
 | Maven | Using JDK 1.5+ annotations for mojos metadata | http://jira.codehaus.org/browse/MNG-2521 | PM |
