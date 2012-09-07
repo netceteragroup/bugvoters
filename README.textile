@@ -39,7 +39,6 @@ h1. Misc
 | Maven Site Plugin | Support adding and overriding report plugins in new maven-site-plugin 3.x reportPlugins configuration format | http://jira.codehaus.org/browse/MSITE-484 | MSR |
 | Confluence/Plugin SDK | Support for Maven 3 | https://studio.atlassian.com/browse/AMPS-374 | RGR |
 | Zimbra | Support shared address book on iPhone | http://bugzilla.zimbra.com/show_bug.cgi?id=30950 | MSR |
-| Tycho | Support annotation processing in tycho-compiler-jdt | https://issues.sonatype.org/browse/TYCHO-590 | PM |
 | Hamcrest | hasItem matcher factory has wrong generic wildcard | http://code.google.com/p/hamcrest/issues/detail?id=100 | MP |
 | Infinispan | Improve performance of tree cache writes in nodes with a lot of data | https://issues.jboss.org/browse/ISPN-1450 | PM |
 | Hibernate | Ability to specify names of constraints (PK, Check, Unique) | https://hibernate.onjira.com/browse/HB-1245 | DKE |
