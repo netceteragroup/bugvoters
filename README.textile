@@ -27,13 +27,11 @@ h1. Misc
 |_. Project |_. short description |_. bug URL |_. Reporter |
 | JBoss Tools | Support auto type registration during hbm2ddl | https://issues.jboss.org/browse/JBIDE-12444 | MSR |
 | JBoss Tools | Maven plugin for Hibernate Tools 4.x | https://issues.jboss.org/browse/JBIDE-12445 | MSR |
-| Maven | Make ra.xml optional - 1.6 spec | http://jira.codehaus.org/browse/MRAR-29 | PM |
 | Maven | outputFile support for capturing exec not functional | http://jira.codehaus.org/browse/MEXEC-86 | MSR |
 | Maven | Global dependency exclusions | http://jira.codehaus.org/browse/MNG-1977 | PM |
 | Maven | Add option to exclude all transitive dependencies for a particular one | http://jira.codehaus.org/browse/MNG-2315 | PM |
 | GWTEventService | Support reconnect after server restart | http://code.google.com/p/gwteventservice/issues/detail?id=46 | MSR |
 | Sonar | Allow to import checkstyle rules using fully qualified class names instead of short module name | http://jira.codehaus.org/browse/SONAR-3097 | PM |
-| Sonar | Multi Module Projects with different Languages | http://jira.codehaus.org/browse/SONAR-2602 | JST |
 | Sonar | Checkstyle severity inheritance ignored | http://jira.codehaus.org/browse/SONAR-3668 | JST |
 | Smart GWT | Support multi-day events in Calendar | http://code.google.com/p/smartgwt/issues/detail?id=550 | MJU |
 | Maven Site Plugin | Support adding and overriding report plugins in new maven-site-plugin 3.x reportPlugins configuration format | http://jira.codehaus.org/browse/MSITE-484 | MSR |
@@ -45,4 +43,3 @@ h1. Misc
 | Hibernate | @ManyToMany and @Index | https://hibernate.onjira.com/browse/HHH-4263 | DKE |
 | Hibernate | HQL/JPA "where in" queries broken | http://opensource.atlassian.com/projects/hibernate/browse/HHH-5905 | MSR |
 | Maven Source Plugin | allow additional source directories to be configured | http://jira.codehaus.org/browse/MSOURCES-25 | PM |
-| Apache CXF | Add support for Apache HttpClient | https://issues.apache.org/jira/browse/CXF-291 | MSR |
