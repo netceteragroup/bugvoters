@@ -11,6 +11,7 @@ h1. Eclipse
 | JDT | Allow to specify format of date and time variables in templates | https://bugs.eclipse.org/bugs/show_bug.cgi?id=75981 | MP |
 | JDT | convert local should copy comments refactoring | https://bugs.eclipse.org/bugs/show_bug.cgi?id=66457 | MP |
 | WTP | WebSphere 6.1/7 adapter for WTP | https://bugs.eclipse.org/bugs/show_bug.cgi?id=160220 | MSR |
+| JDT | Private fields with @Inject are ignored by unused field validation | https://bugs.eclipse.org/bugs/show_bug.cgi?id=376590 | JST |
 
 h1. Mozilla
 
