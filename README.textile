@@ -30,6 +30,7 @@ h1. Misc
 | JSR-236 | Support fork/join | http://java.net/jira/browse/CONCURRENCY_EE_SPEC-20 | PM |
 | JBoss Tools | Support auto type registration during hbm2ddl | https://issues.jboss.org/browse/JBIDE-12444 | MSR |
 | JBoss Tools | Maven plugin for Hibernate Tools 4.x | https://issues.jboss.org/browse/JBIDE-12445 | MSR |
+| Maven | update maven-plugin-plugin:descriptor default binding from generate-resources phase to process-classes | http://jira.codehaus.org/browse/MNG-5346 | PM |
 | Maven | outputFile support for capturing exec not functional | http://jira.codehaus.org/browse/MEXEC-86 | MSR |
 | Maven | Global dependency exclusions | http://jira.codehaus.org/browse/MNG-1977 | PM |
 | Maven | Add option to exclude all transitive dependencies for a particular one | http://jira.codehaus.org/browse/MNG-2315 | PM |
