@@ -1,7 +1,6 @@
 h1. Eclipse
 
 |_. Project |_. short description |_. bug URL |_. Reporter |
-| JDT | Private fields with @Inject are ignored by unused field validation | https://bugs.eclipse.org/bugs/show_bug.cgi?id=376590 | JST |
 | JDT | (Java 7) Suggest to use <> where applicable | https://bugs.eclipse.org/bugs/show_bug.cgi?id=351956 | MP |
 | JDT | Javadoc Locations: no support for variables | https://bugs.eclipse.org/bugs/show_bug.cgi?id=67020 | PM |
 | JDT | Allow to specify format of date and time variables in templates | https://bugs.eclipse.org/bugs/show_bug.cgi?id=75981 | MP |
