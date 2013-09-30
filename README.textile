@@ -15,13 +15,14 @@ h1. Eclipse
 
 h1. Mozilla
 
-|_. Project |_. short description |_. bug URL |_. Reporter |
-| Calendar | Option to hide non-working hours in day view | https://bugzilla.mozilla.org/show_bug.cgi?id=657238 | MSR |
-| Calendar | Better OS integration: register protocol handler | https://bugzilla.mozilla.org/show_bug.cgi?id=352566 | MSR |
-| Calendar | Better OS integration: double-click .ics file | https://bugzilla.mozilla.org/show_bug.cgi?id=357480 | MSR |
-| Calendar | Thunderbird 3 reply/reply-all buttons | https://bugzilla.mozilla.org/show_bug.cgi?id=532009 | MSR |
-| Calendar | "Last Week" group when "Group By Sort" is misleading | https://bugzilla.mozilla.org/show_bug.cgi?id=505981 | MSR |
-| Calendar | TB/Lightning proper Outlook support (accept message) | https://bugzilla.mozilla.org/show_bug.cgi?id=527441 | MSR |
+|_. Project   |_. short description |_. bug URL |_. Reporter |
+| Thunderbird |  Attachment Save as... does not create a Saved Files entry | https://bugzilla.mozilla.org/show_bug.cgi?id=914517 | DO |
+| Calendar    | Option to hide non-working hours in day view | https://bugzilla.mozilla.org/show_bug.cgi?id=657238 | MSR |
+| Calendar    | Better OS integration: register protocol handler | https://bugzilla.mozilla.org/show_bug.cgi?id=352566 | MSR |
+| Calendar    | Better OS integration: double-click .ics file | https://bugzilla.mozilla.org/show_bug.cgi?id=357480 | MSR |
+| Calendar    | Thunderbird 3 reply/reply-all buttons | https://bugzilla.mozilla.org/show_bug.cgi?id=532009 | MSR |
+| Calendar    | "Last Week" group when "Group By Sort" is misleading | https://bugzilla.mozilla.org/show_bug.cgi?id=505981 | MSR |
+| Calendar    | TB/Lightning proper Outlook support (accept message) | https://bugzilla.mozilla.org/show_bug.cgi?id=527441 | MSR |
 
 h1. Misc
 
