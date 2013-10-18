@@ -44,7 +44,6 @@ h1. Misc
 | Zimbra | Support shared address book on iPhone | http://bugzilla.zimbra.com/show_bug.cgi?id=30950 | MSR |
 | Hamcrest | hasItem matcher factory has wrong generic wildcard | http://code.google.com/p/hamcrest/issues/detail?id=100 | MP |
 | Infinispan | Improve performance of tree cache writes in nodes with a lot of data | https://issues.jboss.org/browse/ISPN-1450 | PM |
-| Hibernate | hbm2dll creates FK constraint names that are too large for taget database dialect | https://hibernate.onjira.com/browse/HHH-3656 |  |
 | Hibernate | Ability to specify names of constraints (PK, Check, Unique) | https://hibernate.onjira.com/browse/HB-1245 | DKE |
 | Hibernate | @ManyToMany and @Index | https://hibernate.onjira.com/browse/HHH-4263 | DKE |
 | Hibernate | HQL/JPA "where in" queries broken | http://opensource.atlassian.com/projects/hibernate/browse/HHH-5905 | MSR |
