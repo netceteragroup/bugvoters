@@ -27,6 +27,7 @@ h1. Mozilla
 h1. Misc
 
 |_. Project |_. short description |_. bug URL |_. Reporter |
+| Jenkins | Performance Plugin: Links and chart have gone. | https://issues.jenkins-ci.org/browse/JENKINS-27350 | CM |
 | JAXB XJC | More Schema Annotations/Documentation to Javadoc | https://java.net/jira/browse/JAXB-172 | MSR |
 | OTRS | Reply from Customer Frontend has no CC and BCC fields available | https://otrsteam.ideascale.com/a/dtd/Reply-from-Customer-Frontend-has-no-CC-and-BCC-fields-available/254774-10369 | RG |
 | JSR-236 | Support fork/join | http://java.net/jira/browse/CONCURRENCY_EE_SPEC-20 | PM |
