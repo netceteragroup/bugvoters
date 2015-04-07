@@ -54,4 +54,5 @@ h1. Misc
 | Hibernate | Ability to specify names of constraints (PK, Check, Unique) | https://hibernate.onjira.com/browse/HB-1245 | DKE |
 | Hibernate | @ManyToMany and @Index | https://hibernate.onjira.com/browse/HHH-4263 | DKE |
 | Hibernate | HQL/JPA "where in" queries broken | http://opensource.atlassian.com/projects/hibernate/browse/HHH-5905 | MSR |
+| IntelliJ | pom.xml tags beyond <configuration> are regarded as invalid | https://youtrack.jetbrains.com/issue/IDEA-89560 | DKE |
 
