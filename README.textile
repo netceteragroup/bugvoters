@@ -5,6 +5,7 @@ h1. Eclipse
 | JDT | Javadoc Locations: no support for variables | https://bugs.eclipse.org/bugs/show_bug.cgi?id=67020 | PM |
 | JDT | Allow to specify format of date and time variables in templates | https://bugs.eclipse.org/bugs/show_bug.cgi?id=75981 | MP |
 | JDT | convert local should copy comments refactoring | https://bugs.eclipse.org/bugs/show_bug.cgi?id=66457 | MP |
+| JDT | [Code Formatter] lines with declarations with generic types do not wrap | https://bugs.eclipse.org/bugs/show_bug.cgi?id=419908 | JST |
 | BIRT | multi-threaded report processing fails | https://bugs.eclipse.org/bugs/show_bug.cgi?id=319088 | AIM |
 | BIRT | Allow to pass XML document to BIRT instead of input stream (performance) | https://bugs.eclipse.org/bugs/show_bug.cgi?id=316118 | MSR |
 | E4 | Default text encoding should be set to UTF-8 for all text-based files | https://bugs.eclipse.org/bugs/show_bug.cgi?id=108668 | PM |
