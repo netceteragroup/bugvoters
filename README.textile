@@ -25,6 +25,7 @@ h1. Mozilla
 h1. Misc
 
 |_. Project |_. short description |_. bug URL |_. Reporter |
+| Jenkins | Adding post build steps not working anymore.| https://issues.jenkins-ci.org/browse/JENKINS-9142 | CM |
 | Jenkins | Performance Plugin: Links and chart have gone. | https://issues.jenkins-ci.org/browse/JENKINS-27350 | CM |
 | JAXB XJC | More Schema Annotations/Documentation to Javadoc | https://java.net/jira/browse/JAXB-172 | MSR |
 | OTRS | Reply from Customer Frontend has no CC and BCC fields available | https://otrsteam.ideascale.com/a/dtd/Reply-from-Customer-Frontend-has-no-CC-and-BCC-fields-available/254774-10369 | RG |
