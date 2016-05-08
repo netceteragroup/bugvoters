@@ -1,50 +1,43 @@
 h1. Eclipse
 
 |_. Project |_. short description |_. bug URL |_. Reporter |
-| JDT | Javadoc Locations: no support for variables | https://bugs.eclipse.org/bugs/show_bug.cgi?id=67020 | PM |
-| JDT | Allow to specify format of date and time variables in templates | https://bugs.eclipse.org/bugs/show_bug.cgi?id=75981 | MP |
-| JDT | convert local should copy comments refactoring | https://bugs.eclipse.org/bugs/show_bug.cgi?id=66457 | MP |
-| JDT | [Code Formatter] lines with declarations with generic types do not wrap | https://bugs.eclipse.org/bugs/show_bug.cgi?id=419908 | JST |
+| JDT  | Javadoc Locations: no support for variables | https://bugs.eclipse.org/bugs/show_bug.cgi?id=67020 | PM |
+| JDT  | convert local should copy comments refactoring | https://bugs.eclipse.org/bugs/show_bug.cgi?id=66457 | MP |
+| JDT  | [Code Formatter] lines with declarations with generic types do not wrap | https://bugs.eclipse.org/bugs/show_bug.cgi?id=419908 | JST |
 | BIRT | Allow to pass XML document to BIRT instead of input stream (performance) | https://bugs.eclipse.org/bugs/show_bug.cgi?id=316118 | MSR |
-| E4 | Default text encoding should be set to UTF-8 for all text-based files | https://bugs.eclipse.org/bugs/show_bug.cgi?id=108668 | PM |
-| P2 | Refresh Update Sites | https://bugs.eclipse.org/bugs/show_bug.cgi?id=291631 | MP |
-| SWT | StyledText text layout extensibility | https://bugs.eclipse.org/bugs/show_bug.cgi?id=265591 | MP |
-| WTP | WebSphere 6.1/7 adapter for WTP | https://bugs.eclipse.org/bugs/show_bug.cgi?id=160220 | MSR |
+| P2   | Refresh Update Sites | https://bugs.eclipse.org/bugs/show_bug.cgi?id=291631 | MP |
+| SWT  | StyledText text layout extensibility | https://bugs.eclipse.org/bugs/show_bug.cgi?id=265591 | MP |
+| WTP  | WebSphere 6.1/7 adapter for WTP | https://bugs.eclipse.org/bugs/show_bug.cgi?id=160220 | MSR |
 
 
 h1. Mozilla
 
-|_. Project   |_. short description |_. bug URL |_. Reporter |
-| Calendar    | Option to hide non-working hours in day view | https://bugzilla.mozilla.org/show_bug.cgi?id=657238 | MSR |
-| Calendar    | Better OS integration: register protocol handler | https://bugzilla.mozilla.org/show_bug.cgi?id=352566 | MSR |
-| Calendar    | Better OS integration: double-click .ics file | https://bugzilla.mozilla.org/show_bug.cgi?id=357480 | MSR |
-| Calendar    | Thunderbird 3 reply/reply-all buttons | https://bugzilla.mozilla.org/show_bug.cgi?id=532009 | MSR |
-| Calendar    | "Last Week" group when "Group By Sort" is misleading | https://bugzilla.mozilla.org/show_bug.cgi?id=505981 | MSR |
-| Calendar    | TB/Lightning proper Outlook support (accept message) | https://bugzilla.mozilla.org/show_bug.cgi?id=527441 | MSR |
+|_. Project |_. short description |_. bug URL |_. Reporter |
+| Calendar  | Option to hide non-working hours in day view | https://bugzilla.mozilla.org/show_bug.cgi?id=657238 | MSR |
+| Calendar  | Better OS integration: register protocol handler | https://bugzilla.mozilla.org/show_bug.cgi?id=352566 | MSR |
+| Calendar  | Better OS integration: double-click .ics file | https://bugzilla.mozilla.org/show_bug.cgi?id=357480 | MSR |
+| Calendar  | Thunderbird 3 reply/reply-all buttons | https://bugzilla.mozilla.org/show_bug.cgi?id=532009 | MSR |
+| Calendar  | "Last Week" group when "Group By Sort" is misleading | https://bugzilla.mozilla.org/show_bug.cgi?id=505981 | MSR |
+| Calendar  | TB/Lightning proper Outlook support (accept message) | https://bugzilla.mozilla.org/show_bug.cgi?id=527441 | MSR |
 
 h1. Misc
 
 |_. Project |_. short description |_. bug URL |_. Reporter |
-| Jenkins | Adding post build steps not working anymore.| https://issues.jenkins-ci.org/browse/JENKINS-9142 | CM |
-| Jenkins | Performance Plugin: Links and chart have gone. | https://issues.jenkins-ci.org/browse/JENKINS-27350 | CM |
-| JAXB XJC | More Schema Annotations/Documentation to Javadoc | https://java.net/jira/browse/JAXB-172 | MSR |
-| OTRS | Reply from Customer Frontend has no CC and BCC fields available | https://otrsteam.ideascale.com/a/dtd/Reply-from-Customer-Frontend-has-no-CC-and-BCC-fields-available/254774-10369 | RG |
-| JSR-236 | Support fork/join | http://java.net/jira/browse/CONCURRENCY_EE_SPEC-20 | PM |
+| Jenkins   | Adding post build steps not working anymore.| https://issues.jenkins-ci.org/browse/JENKINS-9142 | CM |
+| Jenkins   | Performance Plugin: Links and chart have gone. | https://issues.jenkins-ci.org/browse/JENKINS-27350 | CM |
+| JAXB XJC  | More Schema Annotations/Documentation to Javadoc | https://java.net/jira/browse/JAXB-172 | MSR |
+| OTRS      | Reply from Customer Frontend has no CC and BCC fields available | https://otrsteam.ideascale.com/a/dtd/Reply-from-Customer-Frontend-has-no-CC-and-BCC-fields-available/254774-10369 | RG |
+| JSR-236   | Support fork/join | http://java.net/jira/browse/CONCURRENCY_EE_SPEC-20 | PM |
 | JBoss Tools | Support auto type registration during hbm2ddl | https://issues.jboss.org/browse/JBIDE-12444 | MSR |
 | JBoss Tools | Maven plugin for Hibernate Tools 4.x | https://issues.jboss.org/browse/JBIDE-12445 | MSR |
-| Maven | Global dependency exclusions | http://jira.codehaus.org/browse/MNG-1977 | PM |
 | Maven Site Plugin | Support adding and overriding report plugins in new maven-site-plugin 3.x reportPlugins configuration format | http://jira.codehaus.org/browse/MSITE-484 | MSR |
-| Maven Source Plugin | allow additional source directories to be configured | http://jira.codehaus.org/browse/MSOURCES-25 | PM |
 | GWTEventService | Support reconnect after server restart | http://code.google.com/p/gwteventservice/issues/detail?id=46 | MSR |
 | Smart GWT | Support multi-day events in Calendar | http://code.google.com/p/smartgwt/issues/detail?id=550 | MJU |
-| SonarQube | Allow to import checkstyle rules using fully qualified class names instead of short module name | http://jira.codehaus.org/browse/SONAR-3097 | PM |
 | SonarQube | Refactor SecurityRealm extension to allow more flexibility | https://jira.codehaus.org/browse/SONAR-4983 | JST |
-| SonarQube Eclipse | Execute anaysis on save | http://jira.codehaus.org/browse/MSONAR-68 | JST |
-| SonarQube Java | Checkstyle export differs semantically from import | http://jira.codehaus.org/browse/SONARJAVA-136 | JST |
-| Hamcrest | hasItem matcher factory has wrong generic wildcard | http://code.google.com/p/hamcrest/issues/detail?id=100 | MP |
-| Infinispan | Improve performance of tree cache writes in nodes with a lot of data | https://issues.jboss.org/browse/ISPN-1450 | PM |
-| Hibernate | Ability to specify names of constraints (PK, Check, Unique) | https://hibernate.onjira.com/browse/HB-1245 | DKE |
-| Hibernate | @ManyToMany and @Index | https://hibernate.onjira.com/browse/HHH-4263 | DKE |
-| Hibernate | HQL/JPA "where in" queries broken | http://opensource.atlassian.com/projects/hibernate/browse/HHH-5905 | MSR |
-| IntelliJ | pom.xml tags beyond <configuration> are regarded as invalid | https://youtrack.jetbrains.com/issue/IDEA-89560 | DKE |
+| Hamcrest  | hasItem matcher factory has wrong generic wildcard | http://code.google.com/p/hamcrest/issues/detail?id=100 | MP |
+| Hibernate | Ability to specify names of constraints (PK, Check, Unique) | https://hibernate.atlassian.net/browse/HB-1245 | DKE |
+| Hibernate | HQL/JPA "where in" queries broken | https://hibernate.atlassian.net/browse/SQM-31 | MSR |
+| IntelliJ  | pom.xml tags beyond <configuration> are regarded as invalid | https://youtrack.jetbrains.com/issue/IDEA-89560 | DKE |
+| Commons Lang | EqualsBuilder.append(Object,Object) is too big | https://issues.apache.org/jira/browse/LANG-1218 | PM |
+| SAAJ      | Further optimize declaration parsing | https://java.net/jira/browse/SAAJ-83 | PM |
 
