@@ -40,4 +40,6 @@ h1. Misc
 | IntelliJ  | pom.xml tags beyond <configuration> are regarded as invalid | https://youtrack.jetbrains.com/issue/IDEA-89560 | DKE |
 | Commons Lang | EqualsBuilder.append(Object,Object) is too big | https://issues.apache.org/jira/browse/LANG-1218 | PM |
 | SAAJ      | Further optimize declaration parsing | https://java.net/jira/browse/SAAJ-83 | PM |
+| Spring Batch | ScopeConfiguration methods should be static | https://jira.spring.io/browse/BATCH-2161 | PM |
+
 
