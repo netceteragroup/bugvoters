@@ -38,7 +38,8 @@ h1. Misc
 | Hibernate | Ability to specify names of constraints (PK, Check, Unique) | https://hibernate.atlassian.net/browse/HB-1245 | DKE |
 | Hibernate | HQL/JPA "where in" queries broken | https://hibernate.atlassian.net/browse/SQM-31 | MSR |
 | IntelliJ  | pom.xml tags beyond <configuration> are regarded as invalid | https://youtrack.jetbrains.com/issue/IDEA-89560 | DKE |
-| Commons Lang | EqualsBuilder.append(Object,Object) is too big | https://issues.apache.org/jira/browse/LANG-1218 | PM |
+| Commons Lang | Performance regression due to cyclic hashCode guard | https://issues.apache.org/jira/browse/LANG-1229 | PM |
+| Commons Lang | Remove unnecessary synchronization from registry lookup | https://issues.apache.org/jira/browse/LANG-1230 | PM |
 | SAAJ      | Further optimize declaration parsing | https://java.net/jira/browse/SAAJ-83 | PM |
 | Spring Batch | ScopeConfiguration methods should be static | https://jira.spring.io/browse/BATCH-2161 | PM |
 
